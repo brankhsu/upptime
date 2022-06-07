@@ -11,6 +11,18 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: youtube
+    url: https://www.youtube.com/
+  - name: my site
+    url: https://140.115.81.225/brankhsu/index.html
+  - name: twitch
+    url: https://www.twitch.tv/
+  - name: NCU class selection system
+    url: https://portal.ncu.edu.tw/system/35?token=LEIobaDsecQKRNzCzJLJZWEYoMX
+  - name: leetcode
+    url: https://leetcode.com/problemset/all/
+  - name: test issue
+    url: https://www.guugle.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
