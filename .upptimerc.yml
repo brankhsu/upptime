@@ -11,8 +11,8 @@ sites:
     url: https://www.twitch.tv/
   - name: NCU class selection system
     url: https://portal.ncu.edu.tw/system/35?token=LEIobaDsecQKRNzCzJLJZWEYoMX
-  - name: leetcode
-    url: https://leetcode.com/problemset/all/
+  - name: ds and algorithm
+    url: http://alrightchiu.github.io/SecondRound/mu-lu-yan-suan-fa-yu-zi-liao-jie-gou.html
   - name: test issue
     url: https://www.guugle.com
 
