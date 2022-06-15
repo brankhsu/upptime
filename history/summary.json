@@ -22,18 +22,20 @@
     "url": "https://140.115.81.225/brankhsu/index.html",
     "icon": "https://favicons.githubusercontent.com/140.115.81.225",
     "slug": "my-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 754,
     "timeDay": 760,
     "timeWeek": 758,
     "timeMonth": 754,
     "timeYear": 754,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-15": 1
+    }
   },
   {
     "name": "twitch",
@@ -58,9 +60,9 @@
     "url": "https://portal.ncu.edu.tw/system/35?token=LEIobaDsecQKRNzCzJLJZWEYoMX",
     "icon": "https://favicons.githubusercontent.com/portal.ncu.edu.tw",
     "slug": "ncu-class-selection-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +71,9 @@
     "timeWeek": 2281,
     "timeMonth": 2096,
     "timeYear": 2096,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-15": 0
+    }
   },
   {
     "name": "ds and algorithm",
