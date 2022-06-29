@@ -22,9 +22,9 @@
     "url": "https://140.115.81.225/brankhsu/index.html",
     "icon": "https://favicons.githubusercontent.com/140.115.81.225",
     "slug": "my-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
@@ -34,6 +34,7 @@
     "timeMonth": 754,
     "timeYear": 754,
     "dailyMinutesDown": {
+      "2022-06-29": 0,
       "2022-06-15": 40
     }
   },
